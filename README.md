@@ -5,5 +5,7 @@ This will open up a local website using streamlit and will let you generate up t
 
 You can choose the range [K,R], the range the roots of every quadratic trinomial would be within.
 
-Write this in the terminal and contrl + click on the Local Network URL or the Network URL to run:
+Once you've submitted the input, a download link for a PDF file containing all of your quadratic trinomials will be generated.
+
+Write this in the terminal and control + click on the Local Network URL or the Network URL to run:
 python -m streamlit run app.py
